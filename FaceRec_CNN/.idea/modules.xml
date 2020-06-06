@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../C3D-tensorflow/.idea/C3D-tensorflow.iml" filepath="$PROJECT_DIR$/../../C3D-tensorflow/.idea/C3D-tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FaceRec_CNN.iml" filepath="$PROJECT_DIR$/.idea/FaceRec_CNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ObjectTracking/.idea/ObjectTracking.iml" filepath="$PROJECT_DIR$/../../ObjectTracking/.idea/ObjectTracking.iml" />
+    </modules>
+  </component>
+</project>
